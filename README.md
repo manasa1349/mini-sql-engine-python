@@ -79,6 +79,7 @@ SQL_engine_python/
 |   |-- 11_avg.png
 |   |-- 12_error_handling.png
 |
+|-- .gitignore
 |-- README.md
 ```
 
