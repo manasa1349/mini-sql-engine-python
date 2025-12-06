@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables / metadata
+*.env
+
+# Jupyter / temp files
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Python build / packaging
+build/
+dist/
+*.egg-info/
+
+# Cache folders
+*.cache/
